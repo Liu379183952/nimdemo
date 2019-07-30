@@ -55,10 +55,10 @@ public class NimDemo {
      * @param context
      * @param url 咨询接口
      */
-    public void init(final Context context,String url,String appKey) {
-        SDKOptions options = new SDKOptions();
-        options.appKey=appKey;
-        NIMClient.init(context, null, options);
+    public void init(final Context context,String url) {
+//        SDKOptions options = new SDKOptions();
+//        options.appKey=appKey;
+        NIMClient.init(context, null, null);
         mUrl = url;
         if (NIMUtil.isMainProcess(context)){
             NimUIKit.init(context);

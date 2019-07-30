@@ -47,7 +47,7 @@ public class BaseApp extends MultiDexApplication {
         setUserIdType("");
 
 
-        NimDemo.getNimDemo().init(getApplicationContext(),"http://zt.wx.pangjiachen.com/miapp/TEST.A0117/gateway","c5ecd59165a262f48cf6bf7376211f68");
+        NimDemo.getNimDemo().init(getApplicationContext(),"http://zt.wx.pangjiachen.com/miapp/TEST.A0117/gateway");
     }
 
 

@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
-INJECTED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
-INJECTED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
+ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:1:1-13:12
 	package
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:1:11-40
-		INJECTED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml
-		INJECTED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:1:11-40
+		INJECTED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml
+		INJECTED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:4:5-83
+ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:4:5-83
 	android:name
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:4:22-64
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:5:5-97
+ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:5:5-97
 	android:name
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:5:22-78
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:7:5-11:19
+ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:7:5-11:19
 	android:label
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:8:18-50
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:8:18-50
 	android:allowBackup
-		ADDED from E:\NimDemo\okhttputils\src\main\AndroidManifest.xml:7:18-44
+		ADDED from E:\NimDemoGit\okhttputils\src\main\AndroidManifest.xml:7:18-44
