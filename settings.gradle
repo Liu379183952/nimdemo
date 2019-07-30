@@ -1,0 +1,1 @@
+include ':app', ':mynimdemo', ':okhttputils', ':uikit', ':avchatkit', ':faceunity'
